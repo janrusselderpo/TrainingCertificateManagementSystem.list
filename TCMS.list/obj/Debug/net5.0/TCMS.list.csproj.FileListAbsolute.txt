@@ -1,0 +1,5 @@
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\net5.0\TCMS.list.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\net5.0\TCMS.list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\net5.0\TCMS.list.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\net5.0\TCMS.list.AssemblyInfo.cs
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\net5.0\TCMS.list.csproj.CoreCompileInputs.cache

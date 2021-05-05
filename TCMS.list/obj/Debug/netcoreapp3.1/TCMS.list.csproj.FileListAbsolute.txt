@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\netcoreapp3.1\TCMS.list.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\netcoreapp3.1\TCMS.list.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\netcoreapp3.1\TCMS.list.AssemblyInfo.cs
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\netcoreapp3.1\TCMS.list.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\bin\Debug\netcoreapp3.1\TCMS.list.exe
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\bin\Debug\netcoreapp3.1\TCMS.list.deps.json
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\bin\Debug\netcoreapp3.1\TCMS.list.runtimeconfig.json
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\bin\Debug\netcoreapp3.1\TCMS.list.runtimeconfig.dev.json
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\bin\Debug\netcoreapp3.1\TCMS.list.dll
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\bin\Debug\netcoreapp3.1\TCMS.list.pdb
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\netcoreapp3.1\TCMS.list.dll
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\netcoreapp3.1\TCMS.list.pdb
+C:\Users\acer\source\repos\TCMS.list\TCMS.list\obj\Debug\netcoreapp3.1\TCMS.list.genruntimeconfig.cache
