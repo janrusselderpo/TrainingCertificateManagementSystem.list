@@ -433,14 +433,27 @@ namespace TCMS.list
                                     }
                                     else
                                     {
-                                        foreach (var Employees in listEmployees.Where(e => e.EmpID == id))
+                                      
+                                    foreach (var Employees in listEmployees.Where(e => e.EmpID == id))
+                                    {
+                                        String firstname = Employees.FirstName;
+
+                                        foreach (var ForCertification in listForCertification.Where(e => e.FirstName == firstname))
                                         {
-                                            Employees.FirstName = fName;
-                                            Employees.LastName = lName;
-                                            Employees.Position = pos;
-                                            Employees.Email = email;
+                                            ForCertification.FirstName = fName;
+                                            ForCertification.LastName = lName;
                                         }
-                                        Console.WriteLine("Data updated enter any key to continue");
+                                        foreach (var CeritifiedEmployees in listCertifiedEmployees.Where(e => e.FirstName == firstname))
+                                        {
+                                            CeritifiedEmployees.FirstName = fName;
+                                            CeritifiedEmployees.LastName = lName;
+                                        }
+                                        Employees.FirstName = fName;
+                                        Employees.LastName = lName;
+                                        Employees.Position = pos;
+                                        Employees.Email = email;
+                                    }
+                                    Console.WriteLine("Data updated enter any key to continue");
                                         String update = Console.ReadLine();
                                         edit();
                                     }
