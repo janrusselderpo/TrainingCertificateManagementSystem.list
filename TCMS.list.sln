@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCMS.list", "TCMS.list\TCMS.list.csproj", "{8482E4CF-1D0A-480E-8D9F-D1AFA1B44324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8482E4CF-1D0A-480E-8D9F-D1AFA1B44324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8482E4CF-1D0A-480E-8D9F-D1AFA1B44324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8482E4CF-1D0A-480E-8D9F-D1AFA1B44324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8482E4CF-1D0A-480E-8D9F-D1AFA1B44324}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5816E5F-641B-49C1-ACDD-EE53EA148964}
+	EndGlobalSection
+EndGlobal
